@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image: linear-gradient(to bottom right, #7eef84a7, #4172ec);
+}
+
+h1,h2{
+    text-align: center;
+    background-color: bisque;
+    border-radius: 3%;
+}
+
+h1{
+    width: 80%;
+    margin:5% auto;
+}
+
+/* card class styles */
+.card{
+    list-style-type: none;
+    text-align: left;
+    border: 2px solid black;
+    padding: 3% 5% ;
+    width: 50%;
+    margin:5% auto;
+    background-color: rgb(111, 223, 227);
+}
+
+
+

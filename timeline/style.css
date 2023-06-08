@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #d7b757a7, #70cde6);
+    text-align: center;
+  }
+  
+  h1 {
+    color: blueviolet;
+  }
+  ol {
+    margin: auto;
+  }
+  li {
+    text-align: center;
+    width: 50%;
+    color: blue;
+    border: 2px solid rgb(72, 11, 226);
+    border-radius: 8%;
+    margin: 2% auto;
+    background-color: rgb(225, 193, 32);
+  }
+  
