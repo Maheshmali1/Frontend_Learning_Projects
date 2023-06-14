@@ -25,6 +25,11 @@ Welcome to the Frontend Projects Repository! This repository contains a collecti
    - Technologies Used : HTML, CSS 
    - [Project Link](./price_table)
 
+### 5. User Registration form
+   - Description : This project describe the design of User Registration form website showing various input element usage of HTML in the form.
+   - Technologies Used : HTML, CSS 
+   - [Project Link](./registration_form/)
+
 ## Getting Started
 
 To get these projects running on your local machine, follow these steps:
