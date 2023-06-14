@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-image: linear-gradient(to bottom right , #a8e2aca7, #9eb3ea); */
+    background-color: rgb(238, 231, 222);
+}
+
+h1{
+    border: 2px solid rgb(193, 140, 59);
+    background-color: rgb(246, 255, 0);
+    width: 50%;
+    text-align: center;
+    margin: 5% auto 1% auto;
+    border-radius: 10px;
+}
+
+ul{
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 60%;
+    margin:6% auto;
+    background-color: rgb(157, 227, 204);
+}
+
+li{
+    border-bottom: 1px solid grey;
+    width: 80%;
+    margin: 4%;
+ 
+}
