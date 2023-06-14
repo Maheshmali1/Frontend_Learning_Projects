@@ -8,22 +8,22 @@ Welcome to the Frontend Projects Repository! This repository contains a collecti
 ### 1. TimeLine
    - Description : This project describes the timeline for the google evolution.
    - Technologies Used : HTML, CSS.
-   - [Project Link]("./timeline")
+   - [Project Link](./timeline/)
 
 ### 2. Restaurant Menu
    - Description : Thie project describes the creation of basic restaurant menu.
    - Technologies Used : HTML, CSS.
-   - [Project Link]("./restaturant_menu")
+   - [Project Link](./restaturant_menu/)
 
 ### 3. to-do List
    - Description : This project describes the design of simple to-do list using various HTML tags.
    - Technologies Used : HTML, CSS
-   - [Project Link]("./to-do_list")
+   - [Project Link](./to-do_list)
 
 ### 4. Price Table
    - Description : This project describe the design of price table website showing the product information in the form of HTML table.
    - Technologies Used : HTML, CSS 
-   - [Project Link]("./price_table")
+   - [Project Link](./price_table)
 
 ## Getting Started
 
