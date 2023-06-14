@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 5%;
+  }
+  
+  div {
+    margin: 5% 10%;
+    border: 2px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    border: 2px solid black;
+    padding: 1%;
+    text-align: center;
+  }
+  
+  th:first-child,
+  td:first-child {
+    width: 20%;
+  }
+  
+  th:nth-child(2),
+  th:nth-child(2) {
+    width: 50%;
+  }
+  
+  th:nth-child(3),
+  th:nth-child(3) {
+    width: 15%;
+  }
+  
+  caption {
+    background-color: rgb(174, 241, 41);
+  }
+  
