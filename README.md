@@ -47,13 +47,3 @@ cd Frontend_Learning_Projects/project-name
 ```
 
 3. Open the `index.html` file in your preferred web browser.
-
-## Contributing
-
-If you have any suggestions, improvements, or bug fixes for any of the projects, feel free to contribute. You can:
-
-- Fork the repository
-- Make your changes
-- Submit a pull request
-
-Please ensure your pull request clearly describes the changes made and the purpose behind them.
