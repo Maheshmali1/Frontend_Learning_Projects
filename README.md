@@ -29,6 +29,10 @@ Welcome to the Frontend Projects Repository! This repository contains a collecti
    - Description : This project describe the design of User Registration form website showing various input element usage of HTML in the form.
    - Technologies Used : HTML, CSS 
    - [Project Link](./registration_form/)
+### 6. Grid Layouts
+   - Description : This project describe the design of various grid layouts for mobile, tablet and desktop website showing usage of grid architecture in CSS.
+   - Technologies Used : HTML, CSS 
+   - [Project Link](./grid_layouts/)
 
 ## Getting Started
 

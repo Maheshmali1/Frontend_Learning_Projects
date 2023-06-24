@@ -2,6 +2,6 @@
 
 ### Mobile devices
 
-![gird-layout](./images/image.png)
+![grid-layout](./images/image.png)
 
 ---

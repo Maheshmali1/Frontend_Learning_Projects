@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin:5%;
+    gap:5%;
+    height: 50vh;
+}
+
+
+.items{
+    border: 2px solid rgb(255, 58, 58);
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.header, .navigation {
+    grid-column: 1 / span 2;
+}
+
+
+.main, .sidebar{
+    grid-row: 3 / span 20
+}
